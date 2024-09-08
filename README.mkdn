@@ -2,7 +2,7 @@
 
 # Initialize local repository
 ```
-repo init -u https://github.com/Evolution-X/manifest -b udc --git-lfs
+repo init -u https://github.com/HeroRickyGAMES/manifest-1 -b patch-1 --git-lfs
 ```
 
 # Sync up
